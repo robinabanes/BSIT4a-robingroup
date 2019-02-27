@@ -2,7 +2,7 @@
   "_args": [
     [
       "@fortawesome/fontawesome-free@5.7.2",
-      "/Users/apple/code/bootstrap-scss-starter"
+      "C:\\Users\\user\\Desktop\\chill\\BSIT4a-robingroup"
     ]
   ],
   "_from": "@fortawesome/fontawesome-free@5.7.2",
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.7.2.tgz",
   "_spec": "5.7.2",
-  "_where": "/Users/apple/code/bootstrap-scss-starter",
+  "_where": "C:\\Users\\user\\Desktop\\chill\\BSIT4a-robingroup",
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.com",
