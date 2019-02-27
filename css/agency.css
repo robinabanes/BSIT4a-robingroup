@@ -221,6 +221,10 @@ header.masthead .intro-text .intro-heading {
   text-transform: none;
 }
 
+.services .services__vision {
+  margin-bottom: 20px;
+}
+
 #portfolio .portfolio-item {
   right: 0;
   margin: 0 0 15px;
@@ -443,7 +447,7 @@ header.masthead .intro-text .intro-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #fed136;
+  background-color: #9999ff;
 }
 
 .timeline > li .timeline-image h4 {
